@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\luffe\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\luffe\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_FPS-unity.2118800215.00" t="ExcludeRecursive" />
+    <e p="D:\COURS\Unity\Git\FPS-unity" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="scripts" t="Include">
+          <e p="Crossbow.cs" t="Include" />
+          <e p="MouseLook.cs" t="Include" />
+          <e p="PlayerMovement.cs" t="Include" />
+        </e>
+      </e>
+      <e p="FPS-unity.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
